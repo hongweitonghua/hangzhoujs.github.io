@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: 杭州前端交流群 - 426462717
+subtitle: 前端联盟杭州地区唯一官方网站
+description: 杭州前端交流群是杭州地区浏览量最大的中文前端门户网站，是由杭州前端从业人员发起，为杭州数以万计的互联网用户提供富有创意的前端新生活。
+author: 豪情
+language: zh-CN
 timezone:
 
 # URL
@@ -68,4 +68,6 @@ theme: yilia
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:hangzhoujs/hangzhoujs.github.io.git
+  branch: master
