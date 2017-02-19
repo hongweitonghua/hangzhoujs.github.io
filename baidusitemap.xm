@@ -5,23 +5,6 @@
     
     
   <url>
-    <loc>http://hangzhoujs.github.io/2017/02/19/yxb/</loc>
-    <lastmod>2017-02-19T13:33:47.000Z</lastmod>
-    <data>
-        <display>
-        <title>英雄榜</title>
-        <pubTime>2017-02-18T16:00:00.000Z</pubTime>
-        
-        <tag>英雄榜</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://hangzhoujs.github.io/2017/02/19/hello-world/</loc>
     <lastmod>2017-02-19T12:32:26.000Z</lastmod>
     <data>
