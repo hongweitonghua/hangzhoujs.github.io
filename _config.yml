@@ -103,3 +103,6 @@ feed:
     type: atom
     path: atom.xml
     limit: 100
+
+
+archive: 1
