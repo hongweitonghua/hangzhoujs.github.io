@@ -64,7 +64,7 @@ share_jia: false
 
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
 #若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
-duoshuo: false
+duoshuo: hangzhoujs
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
@@ -90,5 +90,6 @@ smart_menu:
 
 friends:
   静文: http://xblog.top
+  豪情: http://jikey.cnblogs.com
 
 aboutme: 杭州前端交流群<br>群号：199595055<br> <br>杭州前端交流群<br>是杭州地区浏览量最大的中文前端门户网站，<br>是由杭州前端从业人员发起，<br>为杭州数以万计的互联网<br>用户提供富有创意的前端新生活。
