@@ -70,7 +70,7 @@
     "avatar": "https://avatars0.githubusercontent.com/u/22486446?v=3&s=400"
   },
   {
-    "id": "2",
+    "id": "8",
     "username": "babycannotsay",
     "name": "giggle",
     "blog": "https://babycannotsay.github.io/",
@@ -80,7 +80,7 @@
     "avatar": "https://avatars3.githubusercontent.com/u/17975694?v=3&u=a6844c2c7acb6b29bca94c1cb698679e23216500&s=400"
   },
   {
-    "id": "11",
+    "id": "9",
     "username": "guoooofu",
     "name": "guoooofu",
     "blog": "",
@@ -90,7 +90,7 @@
     "avatar": "https://avatars1.githubusercontent.com/u/22878237?v=3&u=b4b8f153a9d2d10d47894c8ea629257799df11df&s=400"
   },
   {
-    "id": "6",
+    "id": "10",
     "username": "wjszxli",
     "name": "笨小孩",
     "blog": "http://www.wjs.photo",
@@ -100,7 +100,7 @@
     "avatar": "https://avatars2.githubusercontent.com/u/7923822?v=3&u=161076ab8052f8cc000f60976e3d17d53ad94a79&s=400"
   },
   {
-    "id": "8",
+    "id": "11",
     "username": "ohhoney1",
     "name": "cnjs",
     "blog": "http://www.cnblogs.com/2010master/",
@@ -110,7 +110,7 @@
     "avatar": "https://avatars3.githubusercontent.com/u/20284707?v=3&s=400"
   },
   {
-    "id": "9",
+    "id": "12",
     "username": "sylvenas",
     "name": "sylvenas",
     "blog": "http://www.cnblogs.com/sylvenas/",
@@ -120,7 +120,7 @@
     "avatar": "https://avatars3.githubusercontent.com/u/10754058?v=3&s=460"
   },
   {
-    "id": "23",
+    "id": "13",
     "username": "jianzhou520",
     "name": "许德拉",
     "blog": "http://www.jianshu.com/u/05c2a21ee0e4",
@@ -130,7 +130,7 @@
     "avatar": "https://avatars3.githubusercontent.com/u/11852997?v=3&s=460"
   },
   {
-    "id": "18",
+    "id": "14",
     "username": "kittowang",
     "name": "小王",
     "blog": "http://blog.csdn.net/kittowang ",
@@ -150,7 +150,7 @@
     "avatar": "https://avatars0.githubusercontent.com/u/21168056?v=3&u=8d2168a8b91ae0c9d795e5b6728f923f4f54fae8&s=400"
   },
   {
-    "id": "",
+    "id": "16",
     "username": "jingjingke",
     "name": "小崔",
     "blog": "http://jingjingke.com/",
@@ -160,7 +160,7 @@
     "avatar": "https://avatars3.githubusercontent.com/u/24471671?v=3&s=460"
   },
   {
-    "id": "",
+    "id": "17",
     "username": "yin.jser@gmail.com",
     "name": "崆峒",
     "blog": "http://www.cnblogs.com/inJS/",
@@ -180,7 +180,7 @@
     "avatar": "https://avatars3.githubusercontent.com/u/8492963?v=3&s=88"
   },
   {
-    "id": "66",
+    "id": "19",
     "username": "awaw00",
     "name": "一韬",
     "blog": "http://blog.csdn.net/awaw00",
@@ -190,7 +190,7 @@
     "avatar": "https://avatars0.githubusercontent.com/u/16967083?v=3&s=460"
   },
   {
-    "id": "",
+    "id": "20",
     "username": "py419569317",
     "name": "彭勇",
     "blog": "",
@@ -200,7 +200,7 @@
     "avatar": "https://avatars1.githubusercontent.com/u/22902187?v=3&u=d26075c7130b40856ecb1ad6d8cd91af5cfd9460&s=400"
   },
   {
-    "id": "22",
+    "id": "21",
     "username": "crawt",
     "name": "假装正常人",
     "blog": "http://panwk.ren",
@@ -210,7 +210,7 @@
     "avatar": "https://avatars0.githubusercontent.com/u/11565632?v=3&s=88"
   },
   {
-    "id": "",
+    "id": "22",
     "username": "easy-blue",
     "name": "不懂",
     "blog": "http://www.cnblogs.com/easy-blue",
@@ -220,7 +220,7 @@
     "avatar": "https://avatars1.githubusercontent.com/u/15688829?v=3&s=460"
   },
   {
-    "id": "2",
+    "id": "23",
     "username": "lxchuan12",
     "name": "轩辕Rowboat",
     "blog": "http://lxchuan12.github.io",
@@ -230,7 +230,7 @@
     "avatar": "https://avatars0.githubusercontent.com/u/15962539?v=3&s=460"
   },
   {
-    "id": "",
+    "id": "24",
     "username": "erichui",
     "name": "夜未央",
     "blog": "https://home.cnblogs.com/u/gaohui/",
@@ -240,7 +240,7 @@
     "avatar": "https://avatars1.githubusercontent.com/u/17981610?v=3&s=460"
   },
   {
-    "id": "222",
+    "id": "25",
     "username": "wodertian",
     "name": "小倌",
     "blog": "http://blog.wodertian.com/",
@@ -248,5 +248,15 @@
     "website": "http://wodertian.com/",
     "word": "双商低,,Ծ‸Ծ,,",
     "avatar": "https://avatars3.githubusercontent.com/u/13550096"
+  },
+  {
+    "id": "26",
+    "username": "thzt",
+    "name": "何幻",
+    "blog": "http://www.jianshu.com/u/f6393998072f",
+    "github": "https://github.com/thzt",
+    "website":"http://thzt.github.io/blog/archives",
+    "word": "Programming is about ideas, languages are just a way to express them.",
+    "avatar": "https://avatars1.githubusercontent.com/u/3181815"
   }
 ]
