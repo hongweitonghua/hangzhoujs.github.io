@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hangzhoujs.github.io/yxb.html</loc>
+    <loc>http://hangzhoujs.github.io/yxb/yxb.html</loc>
     
-    <lastmod>2017-02-19T14:44:49.000Z</lastmod>
+    <lastmod>2017-02-20T13:49:26.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hangzhoujs.github.io/yxb/yxb.json</loc>
+    
+    <lastmod>2017-02-20T13:44:48.000Z</lastmod>
     
   </url>
   
